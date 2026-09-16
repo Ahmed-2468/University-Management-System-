@@ -109,9 +109,7 @@
             Console.WriteLine("11. Check Student Enrollment");
             Console.WriteLine("12. Get Instructor name by Course");
 
-            Console.WriteLine("\nExtra Requirements:");
-            Console.WriteLine("13. Update Student");
-            Console.WriteLine("14. Delete Student");
+         
 
             Console.WriteLine("================================");
         }
